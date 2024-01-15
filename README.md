@@ -1,3 +1,3 @@
 # Testimonios sobre Diego Argote
 
-Pagina dedicada a opiniones acerca del trabajo y vida de Diego Argote
+Testimonios y opiniones acerca de la vida y trabajo de Diego Argote
