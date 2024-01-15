@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e442d15.css",
+    "main.js": "/static/js/main.6e2f3b21.js",
+    "static/media/Hombre-libro.jpg": "/static/media/Hombre-libro.97e888e6841c595da009.jpg",
+    "static/media/Hombre-cafe.jpg": "/static/media/Hombre-cafe.ffe810510804e1a2fed5.jpg",
+    "static/media/Hombre-cool.jpg": "/static/media/Hombre-cool.61d46842bb7bf85bec3f.jpg",
+    "index.html": "/index.html",
+    "main.5e442d15.css.map": "/static/css/main.5e442d15.css.map",
+    "main.6e2f3b21.js.map": "/static/js/main.6e2f3b21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e442d15.css",
+    "static/js/main.6e2f3b21.js"
+  ]
+}
